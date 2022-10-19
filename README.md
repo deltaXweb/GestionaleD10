@@ -1,7 +1,7 @@
 # Delta10
 For get the progect in your device copy this code.
 ````
-https://github.com/deltaXweb/GestionaleD10.git
+gh repo clone deltaXweb/GestionaleD10
 ````
 
 Go in your cmd pmpt and run this
