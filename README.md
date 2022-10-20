@@ -9,5 +9,7 @@ Go in your cmd pmpt and run this
 npm install
 npm build
 ````
-
-Install composer and PHP
+Update the composer
+````
+composer update
+````
